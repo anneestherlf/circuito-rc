@@ -44,15 +44,19 @@ https://colab.research.google.com/drive/15zJVlvO8FQ8OWBzM15NMSlj5ZT-UnyjV?usp=sh
 Pré-visualizações dos gráficos:
 
 ![Gráfico 1](https://github.com/user-attachments/assets/32ff98da-a86c-4359-91fc-239df4691c17)
+
 *Gráfico 1 — resposta observada.*
 
 ![Gráfico 2](https://github.com/user-attachments/assets/22785a0c-9783-406e-b13f-f1948e631098)
+
 *Gráfico 2 — comparação de sinais.*
 
 ![Gráfico 3](https://github.com/user-attachments/assets/ffb2f620-1222-4e61-a7cb-897103ee368f)
+
 *Gráfico 3 — análise temporal.*
 
 ![Gráfico 4](https://github.com/user-attachments/assets/7f9d0eb1-bf40-4c83-8a8f-f0232c2c3d09)
+
 *Gráfico 4 — outra visualização relevante.*
 
 ---
